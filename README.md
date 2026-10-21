@@ -8,7 +8,7 @@
 
 ## About Me
 
-I learn technologies, understand their capabilities & limitations, use them to turn ideas into practical solutions and troubleshoot when necessary.
+### I learn technologies, understand their capabilities & limitations, use them to turn ideas into practical solutions and troubleshoot when necessary.
 
 ---
 
