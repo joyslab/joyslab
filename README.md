@@ -1,17 +1,16 @@
-# Hi World! i am :
-
-<a href=""
-   target="_blank"
-   rel="noopener noreferrer"
-   style="color: #58a6ff; text-decoration: none; font-size: 50px; font-weight: 700;">
-  Sadman Joy ↗
-</a>
-
-
+<h2>
+  Hi World i am :
+  <a href=""
+     target="_blank"
+     rel="noopener noreferrer"
+     style="font-size: inherit; font-weight: 700; text-decoration: none;">
+    Sadman Joy
+  </a>
+</h2>
 
 ---
 
-## GitHub Stats
+## Stats
 
 ![Sadman Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyslab&show_icons=true&theme=radical)
 
