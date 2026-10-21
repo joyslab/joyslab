@@ -1,12 +1,15 @@
-<h2>
-  Hi World i am :
+<h2>Hi World! I am Sadman Joy 👋</h2>
+
+<h3>
+  You can know everything about me here:
   <a href=""
      target="_blank"
      rel="noopener noreferrer"
-     style="font-size: inherit; font-weight: 700; text-decoration: none;">
-    Sadman Joy
+     style="font-size: 22px; font-weight: 700; text-decoration: none;">
+    Portfolio ↗
   </a>
-</h2>
+</h3>
+
 
 ---
 
