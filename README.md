@@ -1,25 +1,14 @@
 # Sadman Joy 🚀
 
-### Technologist | Python Enthusiast | Prompt Engineering Explorer | Electronics Learner
+### Technologist | Self Learner
 
-> “Curiosity is the engine of growth.”
-
-- 💼 Role: Technologist
 - 🌱 Focus: Self-learning, Python, Prompt Engineering, Electronics
-- 🎯 Current Mission: Learn how to learn anything fast and effectively
-- 🧠 Mindset: Build, test, iterate, improve
 
 ---
 
 ## About Me
 
-I’m a passionate technologist who enjoys exploring the world of code, systems, and practical innovation. My interests span Python development, prompt engineering, electronics, and the art of learning itself.
-
-I thrive on:
-- solving real problems with logic
-- learning by building
-- experimenting with new ideas
-- turning curiosity into useful skills
+I learn technologies, understand their capabilities & limitations, use them to turn ideas into practical solutions and troubleshoot when necessary.
 
 ---
 
@@ -29,35 +18,16 @@ I thrive on:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Learning & Innovation
-- Self-directed learning
+- Research & experimentation
 - Prompt engineering
 - Fast knowledge acquisition
-- Research & experimentation
+- Self-directed learning
 
 ### Electronics & Tech
-- Circuit basics
 - Hardware understanding
+- Circuit basics
 - Practical experimentation
 - Maker mindset
-
----
-
-## Current Learning Track
-
-- ⚡ How to learn anything fast and effectively
-- 🐍 Python programming
-- 🤖 Prompt engineering
-- 🔌 Electronics fundamentals
-- 🧠 Better thinking and problem-solving systems
-
----
-
-## Tech Stack
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -69,12 +39,6 @@ I thrive on:
 
 ---
 
-## Mission
-
-To keep learning aggressively, build practical skills, and evolve into a stronger technologist through discipline, experimentation, and consistency.
-
----
-
 ## Connect
 
 - GitHub: [@joyslab](https://github.com/joyslab)
@@ -83,5 +47,3 @@ To keep learning aggressively, build practical skills, and evolve into a stronge
 - Website/Portfolio: [Add your website]
 
 ---
-
-> “Build, learn, repeat.”
