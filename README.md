@@ -1,33 +1,12 @@
 # Hi World! i am a :
 
-### Technologist | Self Learner
+### <a href=""
+   target="_blank"
+   rel="noopener noreferrer"
+   style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+  Sadman Joy ↗
+</a>
 
-- 🌱 Focus: Self-learning, Python, Prompt Engineering, Electronics
-
----
-
-## About Me
-
-### I learn technologies, understand their capabilities & limitations, use them to turn ideas into practical solutions and troubleshoot when necessary.
-
----
-
-## Core Skills
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Learning & Innovation
-- Research & experimentation
-- Prompt engineering
-- Fast knowledge acquisition
-- Self-directed learning
-
-### Electronics & Tech
-- Hardware understanding
-- Circuit basics
-- Practical experimentation
-- Maker mindset
 
 ---
 
