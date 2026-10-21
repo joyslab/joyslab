@@ -10,13 +10,12 @@
   </a>
 </h3>
 
-
 ---
 
 ## Stats
 
-![Sadman Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyslab&show_icons=true&theme=radical)
+![Sadman Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyslab&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=3fb950&icon_color=58a6ff&border_color=30363d)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyslab&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyslab&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=3fb950&border_color=30363d)
 
 ---
