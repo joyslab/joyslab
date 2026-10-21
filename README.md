@@ -1,11 +1,12 @@
-# Hi World! i am a :
+# Hi World! i am :
 
 <a href=""
    target="_blank"
    rel="noopener noreferrer"
-   style="color: #58a6ff; text-decoration: none; font-weight: 600;">
+   style="color: #58a6ff; text-decoration: none; font-size: 24px; font-weight: 700;">
   Sadman Joy ↗
 </a>
+
 
 
 ---
