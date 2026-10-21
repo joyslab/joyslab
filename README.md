@@ -38,12 +38,3 @@ I learn technologies, understand their capabilities & limitations, use them to t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyslab&layout=compact&theme=radical)
 
 ---
-
-## Connect
-
-- GitHub: [@joyslab](https://github.com/joyslab)
-- LinkedIn: [Add your LinkedIn]
-- Email: [Add your email]
-- Website/Portfolio: [Add your website]
-
----
