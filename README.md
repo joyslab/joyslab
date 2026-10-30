@@ -43,19 +43,11 @@ I learn technologies, understand their capabilities and limitations, use them to
 
 ---
 
-## Table of Contents
+## Others
 
-- [Highlights](#highlights)
 - [Favorites](#favorites)
 - [Dislikes](#dislikes)
 - [Favorite Quotes](#favorite-quotes)
-
-## Highlights
-
-- 🥋 Black Belt in Taekwondo — 2022
-- 🧩 Cube solving — 2023
-- 🚗 Driving (Licensed) — 2025
-- ⚡ Fast Learning — 2025–2026
 
 ## Favorites
 
