@@ -33,7 +33,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 ### Already Learned
 - Designing
 - Web Development
-- AI-assisted workflow - 2023 +
+- AI-assisted workflow — 2023 +
 
 ### Extra Skills
 - Black Belt in Taekwondo — 2022
