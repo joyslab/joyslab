@@ -1,61 +1,107 @@
-<div align="center">
+## Identity
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Sadman+Joy;Technologist+%7C+Builder+%7C+Lifelong+Learner;Turning+curiosity+into+useful+things" alt="Typing introduction" />
+### Name: SADMAN JOY
+### Nationality: Bangladeshi
+### Date of Birth: 6 December
+### Current Profession: Technologist | Learner
 
-### Curious by nature. Purpose-driven by choice.
+## About
 
-I explore software and hardware, learn how technology works, and turn ideas into practical solutions.
+1st : I enjoy - meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.
 
-[![GitHub](https://img.shields.io/badge/GitHub-@joyslab-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyslab)
-[![Achievements](https://img.shields.io/badge/Achievements-Explore-00D4FF?style=for-the-badge&logo=github&logoColor=111827)](https://github.com/joyslab/My-Achievements)
+2nd : I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.
 
-<img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views" />
+> "Sharp sense of taste" is one of my God-gifted strengths.
 
-</div>
+## Skills
+
+
+## Extra Skills
+- I can play chess — from 2018
+- I know Martial arts & got Black belt in Taekwondo — 2022
+- Driving (Licensed) — 2025
+- Fast Learning — 2025–2026
 
 ---
 
-## `whoami`
+## Others
 
-- **Name:** Sadman Joy
-- **Based in:** Bangladesh
-- **Role:** Technologist · Learner
-- **Exploring:** Software, hardware, AI, web development, and visual thinking
+- [Favorites](#favorites)
+- [Dislikes](#dislikes)
+- [Favorite Quotes](#favorite-quotes)
 
-I enjoy meaningful work that creates value. I like learning new skills, exploring ideas, understanding technology's capabilities and limitations, and troubleshooting until things work.
+## Favorites
 
-> “Sharp sense of taste” is one of my God-gifted strengths.
+### Food
+- Find out
 
-## What I bring
+### Fruit
+- Find out
 
-| Area | Focus |
-| --- | --- |
-| Technology | Software and hardware; learning how systems work |
-| Problem-solving | Turning ideas into practical solutions |
-| Creativity | Visual thinking and a sharp eye for detail |
-| Mindset | Curiosity, continuous learning, and purposeful work |
+### Beverage
+- Find out
 
-## Beyond the screen
+### Subject
+- Science
+- IT
+- Electronics
 
-- 🥋 **Taekwondo:** Black Belt (2022)
-- 🧩 **Cube solving:** (2023)
-- 🚗 **Driving:** Licensed (2025)
-- ⚡ **Fast learning:** A skill I'm continually developing (2025–2026)
+### Color
+- Find out
 
-## A few favorites
+### Sports
+- Martial Arts
+- Chess
 
-- **Subjects:** Science, IT, Electronics
-- **Sports:** Martial arts, chess
-- **Destination:** Panam City
-- **Films:** *Iron Man*, *3 Idiots*, *K.G.F*, *Super 30*, *Jawan*
-- **Martial artists:** Bruce Lee, Tony Jaa, Vidyut Jammwal
-- **On repeat:** “All the Stars,” “Way Back,” “Jawan,” “Dracula,” “Phonk - LUZ ROJA,” “Baila Lento”
+### Phrase
+- Cool
 
-## Principles I like
+### Destination
+- Panam City
+
+### Outfit
+- Find out
+
+### Films
+- Iron Man
+- 3 Idiots
+- K.G.F
+- Super 30
+- Jawan
+
+### Songs
+- All the Stars
+- Way Back
+- Jawan
+- Dracula
+- Phonk - LUZ ROJA
+- Baila Lento
+
+### Martial Artists
+- Bruce Lee
+- Tony Jaa
+- Vidyut Jammwal
+
+## Dislikes
+
+- Wasting of time
+- Doing things without any purpose
+- Useless gossips
+- Waiting a long time
+- Strict culture
+- Bangladesh education system
+
+## Favorite Quotes
 
 > “Anyone who has never made a mistake has never tried anything new.” — Albert Einstein
 
+> “Heroes are made by the paths they choose, not the powers they are graced with.” — Tony Stark (Iron Man)
+
 > “Absorb what is useful, discard what is not, add what is uniquely your own.” — Bruce Lee
+
+> “Before you judge me, make sure you're perfect.” — Clint Eastwood
+
+> “Don’t compare yourself with others. Everyone has their own role to play.” — Anonymous
 
 > “Don’t be busy, be productive.” — Anonymous
 
@@ -63,8 +109,12 @@ I enjoy meaningful work that creates value. I like learning new skills, explorin
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/joyslab">
+    <img src="https://img.shields.io/badge/GitHub-joyslab-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-**Build with purpose. Keep learning. Stay curious.**
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=00D4FF" alt="Profile Views" />
+</p>
