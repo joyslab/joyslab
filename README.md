@@ -1,121 +1,61 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+SADMAN+JOY;Technologist+%7C+Learner;Building+ideas+into+practical+solutions" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Sadman+Joy;Technologist+%7C+Builder+%7C+Lifelong+Learner;Turning+curiosity+into+useful+things" alt="Typing introduction" />
+
+### Curious by nature. Purpose-driven by choice.
+
+I explore software and hardware, learn how technology works, and turn ideas into practical solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-@joyslab-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyslab)
+[![Achievements](https://img.shields.io/badge/Achievements-Explore-00D4FF?style=for-the-badge&logo=github&logoColor=111827)](https://github.com/joyslab/My-Achievements)
+
+<img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Integration-Enabled-00D4FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-Active-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design-Visual%20Thinking-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-Always-FF6B6B?style=for-the-badge" />
-</p>
-
-## Profile Snapshot
-
-- Name: SADMAN JOY
-- Nationality: Bangladeshi
-- Date of Birth: 6 December
-- Profession: Technologist | Learner
-
-## About
-
-1st - I enjoy meaningful work that has a purpose and creates value, learning new skills, exploring new ideas, and continuously improving myself. 
-
-2nd - I learn technologies, understand their capabilities & limitations, use them to turn ideas into practical solutions and troubleshoot when necessary.
-
-> "Sharp sense of taste" is one of my God-gifted strengths.
-
-## Skills
-- Both Software & Hardware
-
-### Extra Skills
-- Black Belt in Taekwondo — 2022
-- Cube solving — 2023
-- Driving (Licensed) — 2025
-- Fast Learning — 2025–2026
-
-### My Achievements
-https://github.com/joyslab/My-Achievements
 
 ---
 
-## Others
+## `whoami`
 
-- [Favorites](#favorites)
-- [Dislikes](#dislikes)
-- [Favorite Quotes](#favorite-quotes)
+- **Name:** Sadman Joy
+- **Based in:** Bangladesh
+- **Role:** Technologist · Learner
+- **Exploring:** Software, hardware, AI, web development, and visual thinking
 
-## Favorites
+I enjoy meaningful work that creates value. I like learning new skills, exploring ideas, understanding technology's capabilities and limitations, and troubleshooting until things work.
 
-### Food
-- Find out
+> “Sharp sense of taste” is one of my God-gifted strengths.
 
-### Fruit
-- Find out
+## What I bring
 
-### Beverage
-- Find out
+| Area | Focus |
+| --- | --- |
+| Technology | Software and hardware; learning how systems work |
+| Problem-solving | Turning ideas into practical solutions |
+| Creativity | Visual thinking and a sharp eye for detail |
+| Mindset | Curiosity, continuous learning, and purposeful work |
 
-### Subject
-- Science
-- IT
-- Electronics
+## Beyond the screen
 
-### Color
-- Find out
+- 🥋 **Taekwondo:** Black Belt (2022)
+- 🧩 **Cube solving:** (2023)
+- 🚗 **Driving:** Licensed (2025)
+- ⚡ **Fast learning:** A skill I'm continually developing (2025–2026)
 
-### Sports
-- Martial Arts
-- Chess
+## A few favorites
 
-### Phrase
-- Cool
+- **Subjects:** Science, IT, Electronics
+- **Sports:** Martial arts, chess
+- **Destination:** Panam City
+- **Films:** *Iron Man*, *3 Idiots*, *K.G.F*, *Super 30*, *Jawan*
+- **Martial artists:** Bruce Lee, Tony Jaa, Vidyut Jammwal
+- **On repeat:** “All the Stars,” “Way Back,” “Jawan,” “Dracula,” “Phonk - LUZ ROJA,” “Baila Lento”
 
-### Destination
-- Panam City
-
-### Outfit
-- Find out
-
-### Films
-- Iron Man
-- 3 Idiots
-- K.G.F
-- Super 30
-- Jawan
-
-### Songs
-- All the Stars
-- Way Back
-- Jawan
-- Dracula
-- Phonk - LUZ ROJA
-- Baila Lento
-
-### Martial Artists
-- Bruce Lee
-- Tony Jaa
-- Vidyut Jammwal
-
-## Dislikes
-
-- Wasting of time
-- Doing things without any purpose
-- Useless gossips
-- Waiting a long time
-- Strict culture
-- Bangladesh education system
-
-## Favorite Quotes
+## Principles I like
 
 > “Anyone who has never made a mistake has never tried anything new.” — Albert Einstein
 
-> “Heroes are made by the paths they choose, not the powers they are graced with.” — Tony Stark (Iron Man)
-
 > “Absorb what is useful, discard what is not, add what is uniquely your own.” — Bruce Lee
-
-> “Before you judge me, make sure you're perfect.” — Clint Eastwood
-
-> “Don’t compare yourself with others. Everyone has their own role to play.” — Anonymous
 
 > “Don’t be busy, be productive.” — Anonymous
 
@@ -123,12 +63,8 @@ https://github.com/joyslab/My-Achievements
 
 ---
 
-<p align="center">
-  <a href="https://github.com/joyslab">
-    <img src="https://img.shields.io/badge/GitHub-joyslab-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=00D4FF" alt="Profile Views" />
-</p>
+**Build with purpose. Keep learning. Stay curious.**
+
+</div>
