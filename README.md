@@ -20,7 +20,8 @@
 - I can play chess — from 2018
 - I know Martial arts & got Black belt in Taekwondo — 2022
 - Driving (Licensed) — 2025
-- Fast Learning — 2025–2026
+- I learned how to self learn — 2025–2026
+- Electrical wiring & Troubleshooting
 
 ---
 
@@ -43,11 +44,12 @@
 
 ### Subject
 - Science
-- IT
+- Technology
 - Electronics
 
 ### Color
-- Find out
+- Black
+- Blue
 
 ### Sports
 - Martial Arts
@@ -86,8 +88,8 @@
 
 - Wasting of time
 - Doing things without any purpose
-- Useless gossips
-- Waiting a long time
+- Useless gossip
+- WWaiting for a long time
 - Strict culture
 - Bangladesh education system
 
