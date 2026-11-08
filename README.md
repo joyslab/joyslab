@@ -25,14 +25,7 @@
 > "Sharp sense of taste" is one of my God-gifted strengths.
 
 ## Skills
-
-### Speciality
-- AI Integration
-
-### Already Learned
-- Designing
-- Web Development
-- AI-assisted workflow — 2023 +
+- Both Software & Hardware
 
 ### Extra Skills
 - Black Belt in Taekwondo — 2022
