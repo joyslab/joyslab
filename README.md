@@ -18,10 +18,9 @@
 
 ## About
 
-I enjoy meaningful work — work that has a purpose and creates value.  
-At the same time, I love learning new skills, exploring new ideas, and continuously improving myself.
+1st - I enjoy meaningful work that has a purpose and creates value, learning new skills, exploring new ideas, and continuously improving myself. 
 
-I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.
+2nd - I learn technologies, understand their capabilities & limitations, use them to turn ideas into practical solutions and troubleshoot when necessary.
 
 > "Sharp sense of taste" is one of my God-gifted strengths.
 
@@ -40,6 +39,9 @@ I learn technologies, understand their capabilities and limitations, use them to
 - Cube solving — 2023
 - Driving (Licensed) — 2025
 - Fast Learning — 2025–2026
+
+### My Achievements
+https://github.com/joyslab/My-Achievements
 
 ---
 
