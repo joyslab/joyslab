@@ -14,6 +14,9 @@
 > "Sharp sense of taste" is one of my God-gifted strengths.
 
 ## Skills
+- All kinds if Digital work
+- AI assisted workflow
+- Software & Hardware Troubleshooting
 
 
 ## Extra Skills
@@ -21,7 +24,6 @@
 - I know Martial arts & got Black belt in Taekwondo — 2022
 - Driving (Licensed) — 2025
 - I learned how to self learn — 2025–2026
-- Electrical wiring & Troubleshooting
 
 ---
 
@@ -45,7 +47,6 @@
 ### Subject
 - Science
 - Technology
-- Electronics
 
 ### Color
 - Black
@@ -89,7 +90,6 @@
 - Wasting of time
 - Doing things without any purpose
 - Useless gossip
-- WWaiting for a long time
 - Strict culture
 - Bangladesh education system
 
@@ -110,12 +110,6 @@
 > “AI is not replacing you — but a person using AI better than you might.” — Sam Altman
 
 ---
-
-<p align="center">
-  <a href="https://github.com/joyslab">
-    <img src="https://img.shields.io/badge/GitHub-joyslab-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=00D4FF" alt="Profile Views" />
