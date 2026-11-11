@@ -3,96 +3,104 @@
 # SADMAN JOY
 ### Technology Troubleshooter
 
+<img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=00D4FF" alt="Profile Views" />
+
 </div>
 
 ---
 
-## `01` — Identity
+## 🧬 `01` — Identity
 
-| | |
-|---|---|
-| **Name** | SADMAN JOY |
-| **Nationality** | Bangladeshi |
-| **Date of Birth** | 6 December |
-| **Current Profession** | Technology Troubleshooter |
+<table>
+<tr><td><strong>👤 Name</strong></td><td><strong>SADMAN JOY</strong></td></tr>
+<tr><td><strong>🌍 Nationality</strong></td><td><strong>Bangladeshi</strong></td></tr>
+<tr><td><strong>🎂 Date of Birth</strong></td><td><strong>6 December</strong></td></tr>
+<tr><td><strong>💻 Current Profession</strong></td><td><strong>Technology Troubleshooter</strong></td></tr>
+</table>
 
 ---
 
-## `02` — About
+## 🧠 `02` — About
 
-> **1st :** I enjoy - meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.
+> **1st : I enjoy - meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.**
 
-> **2nd :** I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.
+> **2nd : I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.**
 
 > **"Sharp sense of taste" is one of my God-gifted strengths.**
 
 ---
 
-## `03` — Skills
+## 🛠️ `03` — Skills
 
-- **All kinds of Digital work**
-- **AI assisted workflow**
-- **Software & Hardware Troubleshooting**
-
----
-
-## `04` — Extra Skills
-
-- I can play chess — from 2018
-- I know Martial arts & got Black belt in Taekwondo — 2022
-- Driving (Licensed) — 2025
-- I learned how to learn by self — 2025–2026
+<p>
+<img src="https://img.shields.io/badge/🖥️%20All%20kinds%20of%20Digital%20work-111827?style=for-the-badge" alt="All kinds of Digital work" />
+<img src="https://img.shields.io/badge/🤖%20AI%20assisted%20workflow-111827?style=for-the-badge" alt="AI assisted workflow" />
+<img src="https://img.shields.io/badge/🔧%20Software%20%26%20Hardware%20Troubleshooting-111827?style=for-the-badge" alt="Software & Hardware Troubleshooting" />
+</p>
 
 ---
 
-## `05` — Others
+## ⚡ `04` — Extra Skills
 
-- [Favorites](#favorites)
-- [Dislikes](#dislikes)
-- [Favorite Quotes](#favorite-quotes)
+<p>
+<img src="https://img.shields.io/badge/♟️%20Chess%20%E2%80%94%20from%202018-111827?style=for-the-badge" alt="I can play chess — from 2018" />
+<img src="https://img.shields.io/badge/🥋%20Martial%20arts%20%26%20Black%20belt%20in%20Taekwondo%20%E2%80%94%202022-111827?style=for-the-badge" alt="I know Martial arts & got Black belt in Taekwondo — 2022" />
+<img src="https://img.shields.io/badge/🚗%20Driving%20(Licensed)%20%E2%80%94%202025-111827?style=for-the-badge" alt="Driving (Licensed) — 2025" />
+<img src="https://img.shields.io/badge/🧩%20I%20learned%20how%20to%20learn%20by%20self%20%E2%80%94%202025%E2%80%932026-111827?style=for-the-badge" alt="I learned how to learn by self — 2025–2026" />
+</p>
 
 ---
 
-# Favorites
+## 🧭 `05` — Others
 
-### `Food`
+<p>
+<a href="#favorites"><img src="https://img.shields.io/badge/⭐%20Favorites-111827?style=for-the-badge" alt="Favorites" /></a>
+<a href="#dislikes"><img src="https://img.shields.io/badge/🚫%20Dislikes-111827?style=for-the-badge" alt="Dislikes" /></a>
+<a href="#favorite-quotes"><img src="https://img.shields.io/badge/💬%20Favorite%20Quotes-111827?style=for-the-badge" alt="Favorite Quotes" /></a>
+</p>
+
+---
+
+# ⭐ Favorites
+
+### 🍽️ `Food`
 - Find out
 
-### `Fruit`
+### 🍎 `Fruit`
 - Find out
 
-### `Beverage`
+### 🥤 `Beverage`
 - Find out
 
-### `Subject`
+### 📚 `Subject`
 - Science
 - Technology
 
-### `Color`
+### 🎨 `Color`
 - Black
 - Blue
 
-### `Sports`
+### 🏆 `Sports`
 - Martial Arts
 - Chess
 
-### `Phrase`
+### 💬 `Phrase`
 - Cool
 
-### `Destination`
+### 📍 `Destination`
 - Panam City
 
-### `Outfit`
+### 👕 `Outfit`
 - Find out
 
-### `Films`
+### 🎬 `Films`
 - Iron Man
 - 3 Idiots
 - K.G.F
 - Super 30
 - Jawan
 
-### `Songs`
+### 🎵 `Songs`
 - All the Stars
 - Way Back
 - Jawan
@@ -100,14 +108,14 @@
 - Phonk - LUZ ROJA
 - Baila Lento
 
-### `Martial Artists`
+### 🥋 `Martial Artists`
 - Bruce Lee
 - Tony Jaa
 - Vidyut Jammwal
 
 ---
 
-# Dislikes
+# 🚫 Dislikes
 
 - Wasting of time
 - Doing things without any purpose
@@ -117,7 +125,7 @@
 
 ---
 
-# Favorite Quotes
+# 💬 Favorite Quotes
 
 > “Anyone who has never made a mistake has never tried anything new.” — Albert Einstein
 
