@@ -3,7 +3,7 @@
 ### Name: SADMAN JOY
 ### Nationality: Bangladeshi
 ### Date of Birth: 6 December
-### Current Profession: Technologist | Learner
+### Current Profession: Technology Troubleshooter
 
 ## About
 
@@ -14,7 +14,7 @@
 > "Sharp sense of taste" is one of my God-gifted strengths.
 
 ## Skills
-- All kinds if Digital work
+- All kinds of Digital work
 - AI assisted workflow
 - Software & Hardware Troubleshooting
 
@@ -23,7 +23,7 @@
 - I can play chess — from 2018
 - I know Martial arts & got Black belt in Taekwondo — 2022
 - Driving (Licensed) — 2025
-- I learned how to self learn — 2025–2026
+- I learned how to learn by self — 2025–2026
 
 ---
 
