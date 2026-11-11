@@ -1,31 +1,42 @@
-<h1 align="center">Identity</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Name:</strong> SADMAN JOY &nbsp;·&nbsp;
-  <strong>Nationality:</strong> Bangladeshi &nbsp;·&nbsp;
-  <strong>Date of Birth:</strong> 6 December &nbsp;·&nbsp;
-  <strong>Current Profession:</strong> Technology Troubleshooter
-</p>
+# SADMAN JOY
+### Technology Troubleshooter
+
+</div>
 
 ---
 
-## About
+## `01` — Identity
 
-1st : I enjoy - meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.
-
-2nd : I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.
-
-> "Sharp sense of taste" is one of my God-gifted strengths.
+| | |
+|---|---|
+| **Name** | SADMAN JOY |
+| **Nationality** | Bangladeshi |
+| **Date of Birth** | 6 December |
+| **Current Profession** | Technology Troubleshooter |
 
 ---
 
-## Skills
+## `02` — About
 
-- All kinds of Digital work
-- AI assisted workflow
-- Software & Hardware Troubleshooting
+> **1st :** I enjoy - meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.
 
-## Extra Skills
+> **2nd :** I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.
+
+> **"Sharp sense of taste" is one of my God-gifted strengths.**
+
+---
+
+## `03` — Skills
+
+- **All kinds of Digital work**
+- **AI assisted workflow**
+- **Software & Hardware Troubleshooting**
+
+---
+
+## `04` — Extra Skills
 
 - I can play chess — from 2018
 - I know Martial arts & got Black belt in Taekwondo — 2022
@@ -34,36 +45,69 @@
 
 ---
 
-## Others
+## `05` — Others
 
-<p align="center">
-  <a href="#favorites">Favorites</a> &nbsp;·&nbsp;
-  <a href="#dislikes">Dislikes</a> &nbsp;·&nbsp;
-  <a href="#favorite-quotes">Favorite Quotes</a>
-</p>
+- [Favorites](#favorites)
+- [Dislikes](#dislikes)
+- [Favorite Quotes](#favorite-quotes)
 
 ---
 
-## Favorites
+# Favorites
 
-|  |  |
-|:--|:--|
-| **Food** | Find out |
-| **Fruit** | Find out |
-| **Beverage** | Find out |
-| **Subject** | Science<br>Technology |
-| **Color** | Black<br>Blue |
-| **Sports** | Martial Arts<br>Chess |
-| **Phrase** | Cool |
-| **Destination** | Panam City |
-| **Outfit** | Find out |
-| **Films** | Iron Man<br>3 Idiots<br>K.G.F<br>Super 30<br>Jawan |
-| **Songs** | All the Stars<br>Way Back<br>Jawan<br>Dracula<br>Phonk - LUZ ROJA<br>Baila Lento |
-| **Martial Artists** | Bruce Lee<br>Tony Jaa<br>Vidyut Jammwal |
+### `Food`
+- Find out
+
+### `Fruit`
+- Find out
+
+### `Beverage`
+- Find out
+
+### `Subject`
+- Science
+- Technology
+
+### `Color`
+- Black
+- Blue
+
+### `Sports`
+- Martial Arts
+- Chess
+
+### `Phrase`
+- Cool
+
+### `Destination`
+- Panam City
+
+### `Outfit`
+- Find out
+
+### `Films`
+- Iron Man
+- 3 Idiots
+- K.G.F
+- Super 30
+- Jawan
+
+### `Songs`
+- All the Stars
+- Way Back
+- Jawan
+- Dracula
+- Phonk - LUZ ROJA
+- Baila Lento
+
+### `Martial Artists`
+- Bruce Lee
+- Tony Jaa
+- Vidyut Jammwal
 
 ---
 
-## Dislikes
+# Dislikes
 
 - Wasting of time
 - Doing things without any purpose
@@ -73,7 +117,7 @@
 
 ---
 
-## Favorite Quotes
+# Favorite Quotes
 
 > “Anyone who has never made a mistake has never tried anything new.” — Albert Einstein
 
@@ -91,6 +135,6 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=00D4FF" alt="Profile Views" />
-</p>
+</div>
