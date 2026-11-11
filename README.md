@@ -1,9 +1,13 @@
-## Identity
+<h1 align="center">Identity</h1>
 
-### Name: SADMAN JOY
-### Nationality: Bangladeshi
-### Date of Birth: 6 December
-### Current Profession: Technology Troubleshooter
+<p align="center">
+  <strong>Name:</strong> SADMAN JOY &nbsp;·&nbsp;
+  <strong>Nationality:</strong> Bangladeshi &nbsp;·&nbsp;
+  <strong>Date of Birth:</strong> 6 December &nbsp;·&nbsp;
+  <strong>Current Profession:</strong> Technology Troubleshooter
+</p>
+
+---
 
 ## About
 
@@ -13,13 +17,16 @@
 
 > "Sharp sense of taste" is one of my God-gifted strengths.
 
+---
+
 ## Skills
+
 - All kinds of Digital work
 - AI assisted workflow
 - Software & Hardware Troubleshooting
 
-
 ## Extra Skills
+
 - I can play chess — from 2018
 - I know Martial arts & got Black belt in Taekwondo — 2022
 - Driving (Licensed) — 2025
@@ -29,61 +36,32 @@
 
 ## Others
 
-- [Favorites](#favorites)
-- [Dislikes](#dislikes)
-- [Favorite Quotes](#favorite-quotes)
+<p align="center">
+  <a href="#favorites">Favorites</a> &nbsp;·&nbsp;
+  <a href="#dislikes">Dislikes</a> &nbsp;·&nbsp;
+  <a href="#favorite-quotes">Favorite Quotes</a>
+</p>
+
+---
 
 ## Favorites
 
-### Food
-- Find out
+|  |  |
+|:--|:--|
+| **Food** | Find out |
+| **Fruit** | Find out |
+| **Beverage** | Find out |
+| **Subject** | Science<br>Technology |
+| **Color** | Black<br>Blue |
+| **Sports** | Martial Arts<br>Chess |
+| **Phrase** | Cool |
+| **Destination** | Panam City |
+| **Outfit** | Find out |
+| **Films** | Iron Man<br>3 Idiots<br>K.G.F<br>Super 30<br>Jawan |
+| **Songs** | All the Stars<br>Way Back<br>Jawan<br>Dracula<br>Phonk - LUZ ROJA<br>Baila Lento |
+| **Martial Artists** | Bruce Lee<br>Tony Jaa<br>Vidyut Jammwal |
 
-### Fruit
-- Find out
-
-### Beverage
-- Find out
-
-### Subject
-- Science
-- Technology
-
-### Color
-- Black
-- Blue
-
-### Sports
-- Martial Arts
-- Chess
-
-### Phrase
-- Cool
-
-### Destination
-- Panam City
-
-### Outfit
-- Find out
-
-### Films
-- Iron Man
-- 3 Idiots
-- K.G.F
-- Super 30
-- Jawan
-
-### Songs
-- All the Stars
-- Way Back
-- Jawan
-- Dracula
-- Phonk - LUZ ROJA
-- Baila Lento
-
-### Martial Artists
-- Bruce Lee
-- Tony Jaa
-- Vidyut Jammwal
+---
 
 ## Dislikes
 
@@ -92,6 +70,8 @@
 - Useless gossip
 - Strict culture
 - Bangladesh education system
+
+---
 
 ## Favorite Quotes
 
