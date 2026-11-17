@@ -4,7 +4,8 @@
 
 ---
 
-## Identity
+<details>
+<summary><strong>Identity</strong></summary>
 
 | | |
 |---|---|
@@ -13,9 +14,10 @@
 | **Date of Birth** | 6 December |
 | **Current Profession** | Technology Troubleshooter |
 
----
+</details>
 
-## About
+<details>
+<summary><strong>About</strong></summary>
 
 ### 01 — I enjoy
 Meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.
@@ -25,34 +27,40 @@ I learn technologies, understand their capabilities and limitations, use them to
 
 > **"Sharp sense of taste"** is one of my God-gifted strengths.
 
----
+</details>
 
-## Skills
+<details>
+<summary><strong>Skills</strong></summary>
 
 - **All kinds of Digital work**
 - **AI assisted workflow**
 - **Software & Hardware Troubleshooting**
 
----
+</details>
 
-## Extra Skills
+<details>
+<summary><strong>Extra Skills</strong></summary>
 
 - I can play chess — from 2018
 - I know Martial arts & got Black belt in Taekwondo — 2022
 - Driving (Licensed) — 2025
 - I learned how to learn by self — 2025–2026
 
----
+</details>
 
-## Others
+<details>
+<summary><strong>Others</strong></summary>
 
 - [Favorites](#favorites)
 - [Dislikes](#dislikes)
 - [Favorite Quotes](#favorite-quotes)
 
+</details>
+
 ---
 
-# Favorites
+<details>
+<summary><strong>Favorites</strong></summary>
 
 ### Food
 - Find out
@@ -104,9 +112,10 @@ I learn technologies, understand their capabilities and limitations, use them to
 - Tony Jaa
 - Vidyut Jammwal
 
----
+</details>
 
-# Dislikes
+<details>
+<summary><strong>Dislikes</strong></summary>
 
 - Wasting of time
 - Doing things without any purpose
@@ -114,9 +123,10 @@ I learn technologies, understand their capabilities and limitations, use them to
 - Strict culture
 - Bangladesh education system
 
----
+</details>
 
-# Favorite Quotes
+<details>
+<summary><strong>Favorite Quotes</strong></summary>
 
 > “Anyone who has never made a mistake has never tried anything new.” — Albert Einstein
 
@@ -131,6 +141,8 @@ I learn technologies, understand their capabilities and limitations, use them to
 > “Don’t be busy, be productive.” — Anonymous
 
 > “AI is not replacing you — but a person using AI better than you might.” — Sam Altman
+
+</details>
 
 ---
 
