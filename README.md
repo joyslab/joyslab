@@ -1,23 +1,23 @@
 # SADMAN JOY
 
-> **Technology Troubleshooter**
+> **Technologist**
 
 ---
 
 <details>
-<summary><strong>▸ IDENTITY</strong></summary>
+<summary><strong>IDENTITY</strong></summary>
 
 | | |
 |---|---|
 | **Name** | SADMAN JOY |
 | **Nationality** | Bangladeshi |
 | **Date of Birth** | 6 December |
-| **Current Profession** | Technology Troubleshooter |
+| **Current Profession** | Technologist |
 
 </details>
 
 <details>
-<summary><strong>▸ ABOUT</strong></summary>
+<summary><strong> ABOUT</strong></summary>
 
 ### 01 — I enjoy
 Meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.
@@ -30,7 +30,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>▸ SKILLS</strong></summary>
+<summary><strong> SKILLS</strong></summary>
 
 - **All kinds of Digital work**
 - **AI assisted workflow**
@@ -39,7 +39,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>▸ EXTRA SKILLS</strong></summary>
+<summary><strong> EXTRA SKILLS</strong></summary>
 
 - I can play chess — from 2018
 - I know Martial arts & got Black belt in Taekwondo — 2022
@@ -49,14 +49,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>▸ OTHERS</strong></summary>
-
-</details>
-
----
-
-<details>
-<summary><strong>▸ FAVORITES</strong></summary>
+<summary><strong> FAVORITES</strong></summary>
 
 ### Food
 - Find out
@@ -111,7 +104,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>▸ DISLIKES</strong></summary>
+<summary><strong> DISLIKES</strong></summary>
 
 - Wasting of time
 - Doing things without any purpose
@@ -122,7 +115,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>▸ FAVORITE QUOTES</strong></summary>
+<summary><strong> FAVORITE QUOTES</strong></summary>
 
 > “Anyone who has never made a mistake has never tried anything new.” — Albert Einstein
 
