@@ -5,7 +5,7 @@
 ---
 
 <details>
-<summary><strong>Identity</strong></summary>
+<summary><strong>▸ IDENTITY</strong></summary>
 
 | | |
 |---|---|
@@ -17,7 +17,7 @@
 </details>
 
 <details>
-<summary><strong>About</strong></summary>
+<summary><strong>▸ ABOUT</strong></summary>
 
 ### 01 — I enjoy
 Meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.
@@ -30,7 +30,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>Skills</strong></summary>
+<summary><strong>▸ SKILLS</strong></summary>
 
 - **All kinds of Digital work**
 - **AI assisted workflow**
@@ -39,7 +39,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>Extra Skills</strong></summary>
+<summary><strong>▸ EXTRA SKILLS</strong></summary>
 
 - I can play chess — from 2018
 - I know Martial arts & got Black belt in Taekwondo — 2022
@@ -49,18 +49,14 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>Others</strong></summary>
-
-- [Favorites](#favorites)
-- [Dislikes](#dislikes)
-- [Favorite Quotes](#favorite-quotes)
+<summary><strong>▸ OTHERS</strong></summary>
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Favorites</strong></summary>
+<summary><strong>▸ FAVORITES</strong></summary>
 
 ### Food
 - Find out
@@ -115,7 +111,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>Dislikes</strong></summary>
+<summary><strong>▸ DISLIKES</strong></summary>
 
 - Wasting of time
 - Doing things without any purpose
@@ -126,7 +122,7 @@ I learn technologies, understand their capabilities and limitations, use them to
 </details>
 
 <details>
-<summary><strong>Favorite Quotes</strong></summary>
+<summary><strong>▸ FAVORITE QUOTES</strong></summary>
 
 > “Anyone who has never made a mistake has never tried anything new.” — Albert Einstein
 
@@ -146,6 +142,14 @@ I learn technologies, understand their capabilities and limitations, use them to
 
 ---
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=00D4FF" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joyslab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=238636&icon_color=58A6FF&text_color=C9D1D9&ring_color=238636" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=238636" alt="Profile Views" />
 </p>
