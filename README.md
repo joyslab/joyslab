@@ -8,7 +8,7 @@
 <summary><strong>IDENTITY</strong></summary>
 
 | | |
-| | |
+|------|
 | **Name** | SADMAN JOY |
 | **Nationality** | Bangladeshi |
 | **Date of Birth** | 6 December |
