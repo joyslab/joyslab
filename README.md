@@ -1,5 +1,5 @@
 # 💫 About Me:
-01 — I enjoy meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.<br><br>02 — I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.
+01 — I enjoy meaningful works that has purpose, exploring new ideas, learning new skills and continuously improving myself.<br><br>02 — I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.
 
 
 ## 🌐 Socials:
