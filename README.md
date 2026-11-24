@@ -1,148 +1,24 @@
-## Hi World! I am SADMAN JOY
+# 💫 About Me:
+01 — I enjoy<br>Meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.<br><br>02 — I learn<br>I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.
 
-> **A Technologist**
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ sadmanjoyv2) 
 
-<details>
-<summary><strong>IDENTITY</strong></summary>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=joyslab&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=joyslab&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=joyslab&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-| | |
-|---|---|
-| **Name** | SADMAN JOY |
-| **Nationality** | Bangladeshi |
-| **Date of Birth** | 6 December |
-| **Current Profession** | Technologist |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=joyslab&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
-</details>
-
-<details>
-<summary><strong> ABOUT</strong></summary>
-
-### 01 — I enjoy
-Meaningful works that has purpose, learning new skills, exploring new ideas, and continuously improving myself.
-
-### 02 — I learn
-I learn technologies, understand their capabilities and limitations, use them to turn ideas into practical solutions, and troubleshoot when necessary.
-
-> **"Sharp sense of taste"** is one of my God-gifted strengths.
-
-</details>
-
-<details>
-<summary><strong> SKILLS</strong></summary>
-
-- **All kinds of Digital work**
-- **AI assisted workflow**
-- **Software & Hardware Troubleshooting**
-
-</details>
-
-<details>
-<summary><strong> EXTRA SKILLS</strong></summary>
-
-- I can play chess — from 2018
-- I know Martial arts & got Black belt in Taekwondo — 2022
-- Driving (Licensed) — 2025
-- I learned how to learn by self — 2025–2026
-
-</details>
-
-<details>
-<summary><strong> FAVORITES</strong></summary>
-
-### Food
-- Find out
-
-### Fruit
-- Find out
-
-### Beverage
-- Find out
-
-### Subject
-- Science
-- Technology
-
-### Color
-- Black
-- Blue
-
-### Sports
-- Martial Arts
-- Chess
-
-### Phrase
-- Cool
-
-### Destination
-- Panam City
-
-### Outfit
-- Find out
-
-### Films
-- Iron Man
-- 3 Idiots
-- K.G.F
-- Super 30
-- Jawan
-
-### Songs
-- All the Stars
-- Way Back
-- Jawan
-- Dracula
-- Phonk - LUZ ROJA
-- Baila Lento
-
-### Martial Artists
-- Bruce Lee
-- Tony Jaa
-- Vidyut Jammwal
-
-</details>
-
-<details>
-<summary><strong> DISLIKES</strong></summary>
-
-- Wasting of time
-- Doing things without any purpose
-- Useless gossip
-- Strict culture
-- Bangladesh education system
-
-</details>
-
-<details>
-<summary><strong> FAVORITE QUOTES</strong></summary>
-
-> “Anyone who has never made a mistake has never tried anything new.” — Albert Einstein
-
-> “Heroes are made by the paths they choose, not the powers they are graced with.” — Tony Stark (Iron Man)
-
-> “Absorb what is useful, discard what is not, add what is uniquely your own.” — Bruce Lee
-
-> “Before you judge me, make sure you're perfect.” — Clint Eastwood
-
-> “Don’t compare yourself with others. Everyone has their own role to play.” — Anonymous
-
-> “Don’t be busy, be productive.” — Anonymous
-
-> “AI is not replacing you — but a person using AI better than you might.” — Sam Altman
-
-</details>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=joyslab&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=joyslab&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyslab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=238636&icon_color=58A6FF&text_color=C9D1D9&ring_color=238636" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joyslab&style=flat-square&color=238636" alt="Profile Views" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
