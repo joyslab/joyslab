@@ -12,7 +12,7 @@
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596708981380) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sadmanjoyv2/)
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=joyslab&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=joyslab&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=joyslab&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
